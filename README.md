@@ -7,3 +7,10 @@ chmod +x ./easytier_install.sh
 ./easytier_install.sh
 #注意：需要防火墙和VPS安全组上放行，默认端口是：11020
 #脚本执行后默认把EasyTier安装在/data/easytier目录里，并添加上了开机自启动了
+
+
+
+
+
+
+
