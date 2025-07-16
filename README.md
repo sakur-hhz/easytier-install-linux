@@ -16,7 +16,17 @@ chmod +x ./easytier_install.sh
 #脚本执行后默认把EasyTier安装在/data/easytier目录里，并添加上了开机自启动了
 
 
+---
 
+## 懒人一键脚本
+
+<pre>
+<code>
+curl -sS -O https://raw.githubusercontent.com/sakur-hhz/easytier-install-linux/main/easytier_install.sh && chmod +x easytier_install.sh && ./easytier_install.sh
+</code>
+</pre>
+
+---
 
 
 
